@@ -1,6 +1,7 @@
 # OpenSource101
 
 Hi there 👋, I'm Rudraneel Saha! Its nice to meet you :)
+Here is my [Resume](https://drive.google.com/file/d/1u8cbyKBv6cZ2RHAQQFITMxdYrfbaxdwt/view?usp=drive_link)
 
 ## 🚀 About Me
 - 🔭 I’m currently working on: Making a website for a small startup company.
@@ -34,3 +35,4 @@ This is my Stat..... Pls don't judge me :)
 
 ## What else you should know about me 
 Well nothing else to know, you can contact me, we can talk for hours on end.
+
