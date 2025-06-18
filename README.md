@@ -5,7 +5,7 @@ Hi there 👋, I'm Rudraneel Saha! Its nice to meet you :)
 ## 🚀 About Me
 - 🔭 I’m currently working on: Making a website for a small startup company
 - 🌱 I’m currently learning: Open Source Programming
-- 👯 I’m looking to collaborate on: [Open Source/Projects]
+- 👯 I’m looking to collaborate on: Some Open Source Projects
 - 💬 Ask me about: My expertise is towards Deep Learning and working with LLM Models and Generative AI
 - 📫 How to reach me: Linkedin - www.linkedin.com/in/rudraneel-saha-6a27b5249
 
@@ -20,7 +20,7 @@ Hi there 👋, I'm Rudraneel Saha! Its nice to meet you :)
 - **[Car Price Predictor](https://github.com/Rudraneel-Saha/Car_price_data_analysis)**: It gives an approximate price of the car along with each model with referrece to the user performance, by learning form a given list of vehicles. It uses CLI for input and output, no such interactable is made yet, but in future it would be integrated with such.
 
 ## 🏆 Achievements
-- [Course Completion Certificate] from [IIT Guwahati] Winter School for deep learning
+- [Course Completion Certificate](https://www.linkedin.com/posts/rudraneel-saha-6a27b5249_artificialintelligence-machinelearning-deeplearning-activity-7285342766828503041-gW8U?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAD2FRJoB80nEMnEyKDutNE1JWXV0Es3U8qE) from [IIT Guwahati] Winter School for deep learning
 - Participant of Smart India Hackathon 2024
 
 ## 🎯 Interests
@@ -29,4 +29,8 @@ Hi there 👋, I'm Rudraneel Saha! Its nice to meet you :)
 - Web Development
 
 ## 📈 GitHub Stats
+This is my Stat..... Pls don't judge me :)
 ![This is my Stat..... Pls don't judge me :)](https://github-readme-stats.vercel.app/api?username=Rudraneel-Saha&show_icons=true&hide_title=true)
+
+## What else you should know about me 
+Well nothing else to know, you can contact me, we can talk for hours on end.
